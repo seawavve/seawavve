@@ -5,7 +5,7 @@
 |:-------------------:|:---------:|:-------------------------------:|:----------------------------:|
 |      Education      | 2017.3. ~ |      Department of Software     |     SangMyung  University    |
 | Research activities |  2020.3 ~ | Undergraduate Research Students | SangMyung University- Pi:Lab |
-|     Internship      |  2021.1 ~ 2021.2|        Machine Learning         |        Chorock AIsoft.       |
+|     Internship      |  2021.1 ~ 2021.2|        Machine Learning         |        Chorock AI Soft.       |
 <!--
 **seawavve/seawavve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
