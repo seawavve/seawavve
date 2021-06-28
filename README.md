@@ -5,7 +5,7 @@
 |         Type        |    Date   |             Contents            |         Organization         |
 |:-------------------:|:---------:|:-------------------------------:|:----------------------------:|
 |      Education      | 2017.3. ~ |      Department of Software     |     SangMyung  University    |
-| Research activities |  2020.3 ~ | Undergraduate Research Students | SangMyung University- Pi:Lab |
+| Research activities |  2020.3 ~ 2021.6 | Undergraduate Research Students | SangMyung University- Pi:Lab |
 |     Internship      |  2021.1 ~ 2021.2|        Machine Learning         |        Chorock AI Soft.       |
 
 
