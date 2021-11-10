@@ -12,17 +12,17 @@
 |     Internship      |  2021.9 ~ |       Vision Machine Learning         |        NextLab AI Soft.       |
 
 
-### Project
-AI Network
-    - Network_wavve
-Vision
-   - 논문 3편
-   - pose estimation
-   - detection
-NLP
-    - Dacon news classification
-    - newsclassification
-    - covid newpaper analysis
+### Project  
+AI Network  
+    - Network_wavve  
+Vision  
+   - 논문 3편  
+   - pose estimation  
+   - detection  
+NLP  
+    - Dacon news classification  
+    - newsclassification  
+    - covid newpaper analysis  
 
 <!--
 **seawavve/seawavve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
