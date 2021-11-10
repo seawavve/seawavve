@@ -19,7 +19,8 @@ Vision
    - 논문 3편  
    - pose estimation  
    - detection  
-NLP  
+     
+NLP    
     - Dacon news classification  
     - newsclassification  
     - covid newpaper analysis  
