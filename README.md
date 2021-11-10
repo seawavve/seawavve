@@ -21,6 +21,7 @@ Vision
    - detection  
      
 NLP    
+    - PeekABook
     - Dacon news classification  
     - newsclassification  
     - covid newpaper analysis   -->
