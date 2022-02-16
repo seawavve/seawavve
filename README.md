@@ -11,7 +11,6 @@
 | Research activities |  2020.3 ~ 2021.6 | Undergraduate Research Students | SangMyung University- Vision laboratory Pi:Lab |
 |     Internship      |  2021.1 ~ 2021.2|       Vision Machine Learning         |        Chorock AI Soft.       |
 |     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI Soft.       |
-|  Employment         | 2022.1 ~         |  Vision ML Engineering               |          NextLab AI Soft.       |
 
 
 <!-- ### Project  
