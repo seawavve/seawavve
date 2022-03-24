@@ -9,7 +9,7 @@
 |         Type        |    Date   |             Contents            |         Organization         |
 |:-------------------:|:---------:|:-------------------------------:|:----------------------------:|
 |      Education      | 2017.3. ~ 2022.2|      Department of Software     |     SangMyung  University    |
-| Research activities |  2020.3 ~ 2021.6| Undergraduate Research Students | SangMyung University- Vision laboratory Pi:Lab |
+| Research activities |  2020.3 ~ 2021.6| Undergraduate Research Students | SangMyung University- Vision AI Lab. Pi:Lab |
 |     Internship      |  2021.1 ~ 2021.2|       Vision Machine Learning         |        Chorock AI Soft.       |
 |     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI Soft.       |
 |      Education      | 2022.2. ~ 2022.3|      Pre/Free Onboargin AI/ML Course     |     Wanted    |
