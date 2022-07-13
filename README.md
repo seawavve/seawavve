@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?text=SEAWAVVE&color=0:E3E2B4,100:6ECEDA&animation=fadeIn&height=300&fontAlignY=38&fontSize=90&fontColor=ffffff)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseawavve&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  #ML Engineer #Vision #NLP   
+  #ML Engineer #NLP #Vision   
   e-mail hanhee.sw@gmail.com  
   linkedin @seawavve  
   velog @seawavve  
@@ -13,7 +13,7 @@
 |     Internship      |  2021.1 ~ 2021.2|       Vision Machine Learning         |        Chorock AI co.       |
 |     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI co.       |
 |      Education      | 2022.2. ~ 2022.3|      NLP AI/ML Course     |     Wanted    |
-|     ML Engineer     | 2022.4 ~ present|  SLAM Vision ML Engineering     |   Multipleye co.
+|     ML Engineer     | 2022.4 ~ 2022.7|  SLAM Vision ML Engineering     |   Multipleye co.
 
 
 <!-- ### Project  
