@@ -8,13 +8,13 @@
 ### Career
 |         Type        |    Date   |             Contents            |         Organization         |
 |:-------------------:|:---------:|:-------------------------------:|:----------------------------:|
-|      Education      | 2017.3. ~ 2022.2|      Department of Software     |     SangMyung  University    |
-| Research activities |  2020.3 ~ 2021.6| Undergraduate Research Students | SangMyung University- Vision AI Lab. Pi:Lab |
-|     Internship      |  2021.1 ~ 2021.2|       Vision Machine Learning         |        Chorock AI co.       |
-|     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI co.       |
+|     ML Engineer     | 2022.8 ~ |AI/Data Science   Language Technology Team| LG U+ co.|
+|     ML Engineer     | 2022.4 ~ 2022.7|  SLAM Vision ML Engineering     |   Multipleye co.|
 |      Education      | 2022.2. ~ 2022.3|      NLP AI/ML Course     |     Wanted    |
-|     ML Engineer     | 2022.4 ~ 2022.7|  SLAM Vision ML Engineering     |   Multipleye co.
-|     ML Engineer     | 2022.8 ~ |AI/Data Science   Language Technology Team| LG U+ co.
+|     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI co.       |
+|     Internship      |  2021.1 ~ 2021.2|       Vision Machine Learning         |        Chorock AI co.       |
+| Research activities |  2020.3 ~ 2021.6| Undergraduate Research Students | SangMyung University- Vision AI Lab. Pi:Lab |
+|      Education      | 2017.3. ~ 2022.2|      Department of Software     |     SangMyung  University    |
 
 
 <!-- ### Project  
