@@ -14,7 +14,7 @@
 |     Internship      |  2021.9 ~ 2021.12|       Vision Machine Learning         |        NextLab AI co.       |
 |      Education      | 2022.2. ~ 2022.3|      NLP AI/ML Course     |     Wanted    |
 |     ML Engineer     | 2022.4 ~ 2022.7|  SLAM Vision ML Engineering     |   Multipleye co.
-|     ML Engineer     | 2022.8 ~ |AI/Data Science Language Technology Team| LG U+ co.
+|     ML Engineer     | 2022.8 ~ |AI/Data Science   Language Technology Team| LG U+ co.
 
 
 <!-- ### Project  
