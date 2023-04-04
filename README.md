@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=SEAWAVVE&color=0:E3E2B4,100:6ECEDA&animation=fadeIn&height=300&fontAlignY=38&fontSize=90&fontColor=ffffff)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseawavve&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
-  #ML Engineer #NLP #Vision   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseawavve&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
   e-mail hanhee.sw@gmail.com  
   linkedin @seawavve  
   velog @seawavve  
